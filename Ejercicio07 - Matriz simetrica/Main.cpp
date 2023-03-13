@@ -84,7 +84,7 @@ int main()
 			std::cout << "\nLa matriz no es simétrica." << "\n";
 		}
 		return 0;
-}
+    }
 	else
 	{
 		std::cout << "La matriz no puede ser simétrica porque el número de "
